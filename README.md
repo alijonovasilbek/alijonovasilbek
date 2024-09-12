@@ -23,12 +23,12 @@ I am **Asilbek** - a programmer and technology enthusiast. I like to learn new t
 
 ## 📚 Study and Work
 My experience and interests are in the following areas:
-- **Backend**: Python, Django, FastAPI,Flask
+- **Backend**: Python, Django, FastAPI,Flask,C#
 - **Frontend**: HTML, CSS
 - **Containerization**: Docker
 
 ## 🛠️ Technologies
-- **Backend**: Python, Django, Flask
+- **Backend**: Python, Django, Flask,C#
 - **Frontend**: HTML, CSS
 - **Containerization**: Docker
 
