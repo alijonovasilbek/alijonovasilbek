@@ -5,12 +5,6 @@ I am **Asilbek** - a programmer and technology enthusiast. I love learning new t
 
 
 
-## 🌐 Technologies
-- **Python**: Django, Flask
-- **Web Programming**: HTML, CSS
-- **Containerization**: Docker
-- **Databases**: PostgreSQL
-- **REST API**: Django REST Framework, FastAPI
 
  ## 🚀 GitHub Activity
 
