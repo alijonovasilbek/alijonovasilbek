@@ -48,6 +48,11 @@ My expertise spans various fields, including:
 - **Frontend**: HTML, CSS
 - **Containerization**: Docker
 
+  ## 📅 GitHub Activity Graph
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alijonovasilbek&theme=react-dark)](https://github.com/alijonovasilbek)
+
+
 ## 📝 Blog
 Check out my latest updates and articles on my [LinkedIn blog](https://www.linkedin.com/in/alijonovasilbek).
 
