@@ -2,6 +2,14 @@
 
 I am **Asilbek** - a programmer and technology enthusiast. I love learning new technologies and creating innovative projects. Here’s a bit about my experience and interests:
 
+
+## 📅 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github.com/alijonovasilbek/alijonovasilbek/blob/main/github-activity-graph.svg" alt="GitHub Activity Graph" />
+</p>
+
+
 ## 🌐 Technologies
 - **Python**: Django, Flask
 - **Web Programming**: HTML, CSS
