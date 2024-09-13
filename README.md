@@ -7,7 +7,7 @@ I am **Asilbek** - a programmer and technology enthusiast. I love learning new t
 
 
 <p align="center">
-  <img src="https://github.com/alijonovasilbek/alijonovasilbek/raw/main/github-activity-graph.svg" alt="GitHub Activity Graph" />
+  <img src="https://github.com/alijonovasilbek/raw/main/github-activity-graph.svg" alt="GitHub Activity Graph" />
 </p>
 
 
