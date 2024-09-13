@@ -16,7 +16,6 @@ I am **Asilbek** - a programmer and technology enthusiast. I love learning new t
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-%2338ACEC.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-   <img src="https://img.shields.io/badge/Flask-%000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/PostgreSQL-%234F5D73.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
