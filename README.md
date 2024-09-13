@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I am **Asilbek** - a programmer and technology enthusiast. I like to learn new technologies and create interesting projects. I have experience in the following areas:
+I am **Asilbek** - a programmer and technology enthusiast. I love learning new technologies and creating innovative projects. Here’s a bit about my experience and interests:
 
 ## 🌐 Technologies
 - **Python**: Django, Flask
@@ -9,42 +9,44 @@ I am **Asilbek** - a programmer and technology enthusiast. I like to learn new t
 - **Databases**: PostgreSQL
 - **REST API**: Django REST Framework, FastAPI
 
+## 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-%2338ACEC.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-%000000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%234F5D73.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/FastAPI-%23000000.svg?&style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
 
-<p align='center'>
-  <img src='https://github.com/samandareo/samandareo/blob/main/snake.svg'></img>
+## 🚀 Projects
+### [CIMS](https://github.com/alijonovasilbek/CIMS)
+A project to manage various aspects of [describe project functionality briefly].
 
-
-
-
-## 🔗 Contact Information
-- [LinkedIn](https://www.linkedin.com/in/alijonovasilbek)
-- [Telegram](https://t.me/asilbek_ax)
-
-## 🚀 My project and work
-
-### [Project 1](https://github.com/alijonovasilbek/CIMS)
-
-
-### [Project 2](https://github.com/alijonovasilbek/Referral-bot)
-
+### [Referral Bot](https://github.com/alijonovasilbek/Referral-bot)
+A bot designed to [describe what the bot does briefly].
 
 ## 📚 Study and Work
-My experience and interests are in the following areas:
-- **Backend**: Python, Django, FastAPI,Flask,C#
-- **Frontend**: HTML, CSS
-- **Containerization**: Docker
-
-## 🛠️ Technologies
-- **Backend**: Python, Django, Flask,C#
+My expertise spans various fields, including:
+- **Backend**: Python, Django, Flask, C#
 - **Frontend**: HTML, CSS
 - **Containerization**: Docker
 
 ## 📝 Blog
-You can find news and articles about my projects and experience [on my blog](https://www.linkedin.com/in/alijonovasilbek).
+Check out my latest updates and articles on my [LinkedIn blog](https://www.linkedin.com/in/alijonovasilbek).
 
 ## 🎯 Goals
-- Learning new technologies
-- Helping the wider community
-- Development of innovative solutions
+- Continuously learning new technologies
+- Contributing to the tech community
+- Developing innovative solutions
 
-If you have any questions or suggestions for cooperation, please contact me through the above contacts.
+## 🔗 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/alijonovasilbek)
+- [Telegram](https://t.me/asilbek_ax)
+
+<p align='center'>
+  <img src='https://github.com/samandareo/samandareo/blob/main/snake.svg' alt='GitHub Snake' />
+</p>
