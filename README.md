@@ -17,7 +17,7 @@ I am **Asilbek** - a programmer and technology enthusiast. I love learning new t
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alijonovasilbek&theme=dark&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=alijonovasilbek&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alijonovasilbek&theme=github" alt="Alijonov Asilbek" />
+
 </p>
 
 ## 🛠️ Tools & Technologies
@@ -42,15 +42,18 @@ A project to manage various aspects of [describe project functionality briefly].
 ### [Referral Bot](https://github.com/alijonovasilbek/Referral-bot)
 A bot designed to [describe what the bot does briefly].
 
+
+<p align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alijonovasilbek&theme=github" alt="Alijonov Asilbek" />
+</p>
+
 ## 📚 Study and Work
 My expertise spans various fields, including:
 - **Backend**: Python, Django, Flask, C#
 - **Frontend**: HTML, CSS
 - **Containerization**: Docker
 
-  ## 📅 GitHub Activity Graph
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alijonovasilbek&theme=react-dark)](https://github.com/alijonovasilbek)
 
 
 ## 📝 Blog
