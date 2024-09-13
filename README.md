@@ -9,6 +9,13 @@ I am **Asilbek** - a programmer and technology enthusiast. I like to learn new t
 - **Databases**: PostgreSQL
 - **REST API**: Django REST Framework, FastAPI
 
+
+<p align='center'>
+  <img src='https://github.com/samandareo/samandareo/blob/main/snake.svg'></img>
+
+
+
+
 ## 🔗 Contact Information
 - [LinkedIn](https://www.linkedin.com/in/alijonovasilbek)
 - [Telegram](https://t.me/asilbek_ax)
