@@ -12,9 +12,9 @@ I am **Asilbek** - a programmer and technology enthusiast. I love learning new t
  ## 🚀 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github" alt="GitHub Profile Summary" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alijonovasilbek&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alijonovasilbek&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alijonovasilbek&theme=github" alt="Alijonov Asilbek" />
 </p>
 
 ## 🛠️ Tools & Technologies
