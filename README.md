@@ -1,9 +1,9 @@
 # Hello! 👋
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Salom! Men Asilbekman" title="👋 Salom! Men Asilbekman"/>]()
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
-<!--
+
+
 
 I am **Asilbek** - a programmer and technology enthusiast. I love learning new technologies and creating innovative projects. Here’s a bit about my experience and interests:
 
