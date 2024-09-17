@@ -1,6 +1,6 @@
 # Hello! 👋
 
-[<img  src="https://assets.pinterest.com/ext/embed.html?id=1093389615777659634"  alt="👋 Salom! Men Asilbekman" title="👋 Salom! Men Asilbekman"/>]()
+
 
 
 
