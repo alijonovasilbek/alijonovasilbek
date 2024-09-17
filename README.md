@@ -1,6 +1,8 @@
 # Hello! 👋
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Salom! Men Asilbekman" title="👋 Salom! Men Asilbekman"/>]()
+
+
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=1093389615777659634" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
 
 
 
