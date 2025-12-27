@@ -8,11 +8,6 @@ I am **Asilbek** - a passionate programmer and technology enthusiast dedicated t
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alijonovasilbek&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alijonovasilbek&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/alijonovasilbek)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alijonovasilbek&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/alijonovasilbek)
-
 </div>
 
 ## 💻 Tech Stack
