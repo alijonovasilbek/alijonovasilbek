@@ -4,9 +4,10 @@ I am **Asilbek** - a passionate programmer and technology enthusiast dedicated t
 
 ## 🚀 GitHub Activity
 
+
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alijonovasilbek&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alijonovasilbek&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alijonovasilbek&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/alijonovasilbek)
 
