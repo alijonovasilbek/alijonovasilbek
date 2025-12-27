@@ -6,6 +6,9 @@ I am **Asilbek** - a passionate programmer and technology enthusiast dedicated t
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alijonovasilbek&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alijonovasilbek&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijonovasilbek&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
@@ -61,8 +64,18 @@ An intelligent Telegram bot designed to automate referral tracking and user enga
 
 **Tech Stack:** Python, aiogram, SQLite
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alijonovasilbek&theme=dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alijonovasilbek&theme=monokai" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alijonovasilbek&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alijonovasilbek&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 ## 📚 Expertise
@@ -83,12 +96,6 @@ skills = {
 - 🔭 Contributing to open-source projects
 - 📖 Sharing knowledge through technical blogging
 - 🚀 Building scalable, enterprise-level applications
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alijonovasilbek&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
 
 ## 📝 Latest Blog Posts
 
@@ -111,7 +118,7 @@ Stay updated with my latest insights and technical articles on [LinkedIn](https:
 ---
 
 <p align='center'>
-  <img src='https://github.com/samandareo/samandareo/blob/main/snake.svg' alt='GitHub Snake Animation' />
+  <img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer' alt='Footer' />
 </p>
 
 <p align="center">
